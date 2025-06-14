@@ -14,7 +14,6 @@ export default function Footer() {
                             <li><a href="/features" className="text-gray-400 hover:text-yellow-400 transition duration-300">Features</a></li>
                             <li><a href="/guide" className="text-gray-400 hover:text-yellow-400 transition duration-300">Beginner's Guide</a></li>
                             <li><a href="/gallery" className="text-gray-400 hover:text-yellow-400 transition duration-300">Gallery</a></li>
-                            <li><a href="/contact" className="text-gray-400 hover:text-yellow-400 transition duration-300">Contact</a></li>
                         </ul>
                     </div>
                     <div>
